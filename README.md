@@ -54,8 +54,4 @@ Here is a [video](https://youtube.com/shorts/x5yD4eWYbyM) demonstrating the car'
 - Idea from PaulMakeThings on Instructables: [Link](https://www.instructables.com/Arduino-Nano-based-Microbot/)
 
 
-## Acknowledgements
-   - Arduino
-   - Servo Library for Arduino
-   - AVR compiler
-   - Idea from PaulMakeThings on Instructables - https://www.instructables.com/Arduino-Nano-based-Microbot/ 
+
