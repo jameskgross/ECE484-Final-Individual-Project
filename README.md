@@ -42,7 +42,7 @@ This repository contains the source code for an Arduino-controlled car that uses
 - **Motor Control**: Adjusting the servo motors to move at the same speed and calibrating turns.
 - **Power Supply Issues**: Dealing with the limitations of a 9V battery in powering both the Arduino and the servo motors efficiently.
 
-### Video Demonstration
+## Video Demonstration
 
 Here is a [video](https://youtube.com/shorts/x5yD4eWYbyM) demonstrating the car's movements and capabilities.
 
