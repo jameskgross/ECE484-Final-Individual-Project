@@ -32,6 +32,28 @@ This repository contains the source code for an Arduino-controlled car that uses
    - Right Servo Motor to Pin 2
 2. **Power Setup**: Connect your 9V battery to the VIN and GND on the Arduino for power.
 
+## Building the Car
+
+- **Choosing Components**: Selected Arduino Nano for its compact size and ease of use, and servo motors for precise movement control.
+- **Assembly**: Components were assembled on a breadboard for easy modifications and testing.
+
+## Challenges Faced
+
+- **Motor Control**: Adjusting the servo motors to move at the same speed and calibrating turns.
+- **Power Supply Issues**: Dealing with the limitations of a 9V battery in powering both the Arduino and the servo motors efficiently.
+
+### Video Demonstration
+
+Here is a [video](https://youtube.com/shorts/x5yD4eWYbyM) demonstrating the car's movements and capabilities.
+
+
+## References and Resources
+
+- Arduino Official Documentation: [Arduino Home](https://www.arduino.cc/)
+- Servo Motor Control with Arduino: [Arduino Servo Library](https://www.arduino.cc/reference/en/libraries/servo/)
+
+- 
+
 ## Acknowledgements
    - Arduino
    - Servo Library for Arduino
