@@ -51,8 +51,8 @@ Here is a [video](https://youtube.com/shorts/x5yD4eWYbyM) demonstrating the car'
 
 - Arduino Official Documentation: [Arduino Home](https://www.arduino.cc/)
 - Servo Motor Control with Arduino: [Arduino Servo Library](https://www.arduino.cc/reference/en/libraries/servo/)
+- Idea from PaulMakeThings on Instructables: [Link](https://www.instructables.com/Arduino-Nano-based-Microbot/)
 
-- 
 
 ## Acknowledgements
    - Arduino
