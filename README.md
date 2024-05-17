@@ -32,3 +32,8 @@ This repository contains the source code for an Arduino-controlled car that uses
    - Right Servo Motor to Pin 2
 2. **Power Setup**: Connect your 9V battery to the VIN and GND on the Arduino for power.
 
+## Acknowledgements
+   - Arduino
+   - Servo Library for Arduino
+   - AVR compiler
+   - Idea from PaulMakeThings on Instructables - https://www.instructables.com/Arduino-Nano-based-Microbot/ 
